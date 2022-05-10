@@ -9871,6 +9871,7 @@
   (gr_circle (center -48.26 -11.43) (end -41.91 -3.81) (layer "F.SilkS") (width 0.15) (fill none) (tstamp baa8d655-392b-425a-ae5b-5181b4a31a3a))
   (gr_rect (start -110.49 31.75) (end -99.06 138.43) (layer "F.SilkS") (width 0.15) (fill none) (tstamp bc65f1f4-5007-412e-a9b0-59d63fa65bd1))
   (gr_rect (start 12.7 12.7) (end 63.5 119.38) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 6f854478-d762-40b8-9548-e2a012e9028a))
+  (gr_rect (start 63.5 12.7) (end 123.19 119.38) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp ded15c04-3bc8-4db4-bea5-925bf2136216))
 
   (segment (start 49.28601 50.8) (end 46.99 50.8) (width 0.25) (layer "B.Cu") (net 1) (tstamp 404b355a-1aab-43a2-90ed-c608bc6d4dc2))
   (segment (start 41.99 43.825) (end 45.155 46.99) (width 0.25) (layer "B.Cu") (net 1) (tstamp 6a1082f1-a430-4f1c-bd9a-251213fe8517))
