@@ -5713,7 +5713,7 @@
     (property "Value" "10u" (id 1) (at 64.77 151.5109 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" (id 2) (at 61.9252 154.94 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" (id 2) (at 61.9252 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 60.96 151.13 0)
@@ -5888,7 +5888,7 @@
     (property "Value" "10u" (id 1) (at 64.77 169.2909 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" (id 2) (at 61.9252 172.72 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm" (id 2) (at 61.9252 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 60.96 168.91 0)
@@ -9196,10 +9196,10 @@
       (reference "C13") (unit 1) (value "1n") (footprint "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm")
     )
     (path "/4c10e0c8-c190-49b5-afef-1cfbf2c04b94"
-      (reference "C14") (unit 1) (value "10u") (footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm")
+      (reference "C14") (unit 1) (value "10u") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
     )
     (path "/575f3bf2-02c8-4aae-8013-f1397d2b5c57"
-      (reference "C15") (unit 1) (value "10u") (footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm")
+      (reference "C15") (unit 1) (value "10u") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
     )
     (path "/3a96b081-72fd-49bc-b6d2-c7dcd534bda7"
       (reference "C16") (unit 1) (value "10n") (footprint "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm")
