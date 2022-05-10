@@ -1,4 +1,4 @@
-19821533381512505
+19823195562102517
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57377,6 +57377,13 @@ Mounting Hole 3.2mm, M3, ISO14580
 mounting hole 3.2mm m3 iso14580
 0
 2
+1
+MountingHole
+MountingHole_3.2mm_M3_Long_Pad
+
+
+0
+1
 1
 MountingHole
 MountingHole_3.2mm_M3_Pad
