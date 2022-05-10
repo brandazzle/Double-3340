@@ -3507,7 +3507,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5251eb96-1495-47e9-ad80-ed9e019874f4)
   )
-  (label "PWM1" (at 157.48 43.18 0)
+  (label "PWM2" (at 157.48 43.18 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 563cc3d4-8f12-461d-9bd1-b13872b1792f)
   )
