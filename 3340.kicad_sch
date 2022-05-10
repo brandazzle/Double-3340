@@ -1743,6 +1743,7 @@
     )
   )
 
+
   (junction (at 191.77 29.21) (diameter 0) (color 0 0 0 0)
     (uuid 022136ab-5975-40c3-b600-8bebcd1b1a32)
   )
@@ -2056,7 +2057,6 @@
     (uuid f50ffe75-445b-4855-ab7d-812a4c489a15)
   )
 
-  (no_connect (at 144.78 121.92) (uuid 1b187a5c-d845-48f9-bf3c-7080ca799fa2))
   (no_connect (at 113.03 144.78) (uuid ee2e1454-8b13-4e92-b9d4-161d17b43d77))
   (no_connect (at 113.03 147.32) (uuid ee2e1454-8b13-4e92-b9d4-161d17b43d78))
   (no_connect (at 228.6 115.57) (uuid ee2e1454-8b13-4e92-b9d4-161d17b43d79))
@@ -4593,9 +4593,9 @@
   (symbol (lib_id "Connector_Generic:Conn_01x17") (at 93.98 172.72 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2554c959-6d61-4d87-ab9d-46b8aaabd2cb)
-    (property "Reference" "J?" (id 0) (at 93.98 146.05 0))
+    (property "Reference" "J2" (id 0) (at 93.98 146.05 0))
     (property "Value" "Conn_01x17" (id 1) (at 93.98 148.59 0))
-    (property "Footprint" "" (id 2) (at 93.98 172.72 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x17_P2.54mm_Vertical" (id 2) (at 93.98 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 93.98 172.72 0)
@@ -5844,9 +5844,9 @@
   (symbol (lib_id "Connector_Generic:Conn_01x17") (at 209.55 143.51 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 578cc194-2382-4ae4-adeb-58dbe023dabe)
-    (property "Reference" "J?" (id 0) (at 209.55 116.84 0))
+    (property "Reference" "J11" (id 0) (at 209.55 116.84 0))
     (property "Value" "Conn_01x17" (id 1) (at 209.55 119.38 0))
-    (property "Footprint" "" (id 2) (at 209.55 143.51 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x17_P2.54mm_Vertical" (id 2) (at 209.55 143.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 209.55 143.51 0)
@@ -6447,7 +6447,7 @@
   (symbol (lib_id "power:-12V") (at 78.74 134.62 270) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7f144151-92c4-42f7-9428-7559221bc3f1)
-    (property "Reference" "#PWR?" (id 0) (at 81.28 134.62 0)
+    (property "Reference" "#PWR059" (id 0) (at 81.28 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "-12V" (id 1) (at 82.55 134.6199 90)
@@ -8009,9 +8009,9 @@
   (symbol (lib_id "Connector_Generic:Conn_01x17") (at 73.66 154.94 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d2def891-76d1-4589-af17-41697317b168)
-    (property "Reference" "J?" (id 0) (at 73.66 128.27 0))
+    (property "Reference" "J1" (id 0) (at 73.66 128.27 0))
     (property "Value" "Conn_01x17" (id 1) (at 73.66 130.81 0))
-    (property "Footprint" "" (id 2) (at 73.66 154.94 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x17_P2.54mm_Vertical" (id 2) (at 73.66 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 73.66 154.94 0)
@@ -8380,7 +8380,7 @@
   (symbol (lib_id "power:-12V") (at 271.78 80.01 270) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e85eee94-2a7e-41f1-bcaa-2f821675ef25)
-    (property "Reference" "#PWR?" (id 0) (at 274.32 80.01 0)
+    (property "Reference" "#PWR097" (id 0) (at 274.32 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "-12V" (id 1) (at 275.59 80.0099 90)
@@ -8684,9 +8684,9 @@
   (symbol (lib_id "Connector_Generic:Conn_01x17") (at 266.7 100.33 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid fcd770ab-222f-4165-8aba-8ebac06b104f)
-    (property "Reference" "J?" (id 0) (at 266.7 73.66 0))
+    (property "Reference" "J18" (id 0) (at 266.7 73.66 0))
     (property "Value" "Conn_01x17" (id 1) (at 266.7 76.2 0))
-    (property "Footprint" "" (id 2) (at 266.7 100.33 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x17_P2.54mm_Vertical" (id 2) (at 266.7 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 266.7 100.33 0)
@@ -8967,6 +8967,9 @@
     (path "/9c290ac6-09c4-45b5-819b-f217952093b2"
       (reference "#PWR058") (unit 1) (value "GND") (footprint "")
     )
+    (path "/7f144151-92c4-42f7-9428-7559221bc3f1"
+      (reference "#PWR059") (unit 1) (value "-12V") (footprint "")
+    )
     (path "/80600f51-c2cd-49d7-907c-a0b4e5660063"
       (reference "#PWR060") (unit 1) (value "+12V") (footprint "")
     )
@@ -9078,6 +9081,9 @@
     (path "/fe23bac7-0c61-4bb7-90e2-7f245fe43669"
       (reference "#PWR096") (unit 1) (value "+12V") (footprint "")
     )
+    (path "/e85eee94-2a7e-41f1-bcaa-2f821675ef25"
+      (reference "#PWR097") (unit 1) (value "-12V") (footprint "")
+    )
     (path "/5effbcf6-4b4d-47b8-bc18-3439f85411e7"
       (reference "#PWR098") (unit 1) (value "GND") (footprint "")
     )
@@ -9092,12 +9098,6 @@
     )
     (path "/a3246385-5ae8-4404-a645-bbd1ac3c1956"
       (reference "#PWR0103") (unit 1) (value "+12V") (footprint "")
-    )
-    (path "/7f144151-92c4-42f7-9428-7559221bc3f1"
-      (reference "#PWR?") (unit 1) (value "-12V") (footprint "")
-    )
-    (path "/e85eee94-2a7e-41f1-bcaa-2f821675ef25"
-      (reference "#PWR?") (unit 1) (value "-12V") (footprint "")
     )
     (path "/5280c281-f74a-4eed-a681-b7ef40ba9fd3"
       (reference "C1") (unit 1) (value "0.1u") (footprint "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm")
@@ -9237,6 +9237,12 @@
     (path "/dd257896-399c-4505-afdc-34465a87c5b8"
       (reference "FINE2") (unit 1) (value "B20k") (footprint "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical")
     )
+    (path "/d2def891-76d1-4589-af17-41697317b168"
+      (reference "J1") (unit 1) (value "Conn_01x17") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x17_P2.54mm_Vertical")
+    )
+    (path "/2554c959-6d61-4d87-ab9d-46b8aaabd2cb"
+      (reference "J2") (unit 1) (value "Conn_01x17") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x17_P2.54mm_Vertical")
+    )
     (path "/54579bc3-ca3b-4794-8cd6-93a8ce0a7633"
       (reference "J3") (unit 1) (value "V/OCT1") (footprint "Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles")
     )
@@ -9261,6 +9267,9 @@
     (path "/219b396e-750c-4dfc-8adf-2ec268f51c4d"
       (reference "J10") (unit 1) (value "FM1") (footprint "Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles")
     )
+    (path "/578cc194-2382-4ae4-adeb-58dbe023dabe"
+      (reference "J11") (unit 1) (value "Conn_01x17") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x17_P2.54mm_Vertical")
+    )
     (path "/1cbc31c3-acd6-4092-87cb-dc4b6b22b205"
       (reference "J12") (unit 1) (value "V/OCT2") (footprint "Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles")
     )
@@ -9279,23 +9288,14 @@
     (path "/80d3ff29-0634-4417-848f-e7ac918b583f"
       (reference "J17") (unit 1) (value "SYNC2") (footprint "Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles")
     )
+    (path "/fcd770ab-222f-4165-8aba-8ebac06b104f"
+      (reference "J18") (unit 1) (value "Conn_01x17") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x17_P2.54mm_Vertical")
+    )
     (path "/04162a97-e701-4095-9f22-ef01be2ddf00"
       (reference "J19") (unit 1) (value "PWM2") (footprint "Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles")
     )
     (path "/08535186-3926-4a65-b2d9-e587a8bd8861"
       (reference "J20") (unit 1) (value "FM2") (footprint "Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles")
-    )
-    (path "/2554c959-6d61-4d87-ab9d-46b8aaabd2cb"
-      (reference "J?") (unit 1) (value "Conn_01x17") (footprint "")
-    )
-    (path "/578cc194-2382-4ae4-adeb-58dbe023dabe"
-      (reference "J?") (unit 1) (value "Conn_01x17") (footprint "")
-    )
-    (path "/d2def891-76d1-4589-af17-41697317b168"
-      (reference "J?") (unit 1) (value "Conn_01x17") (footprint "")
-    )
-    (path "/fcd770ab-222f-4165-8aba-8ebac06b104f"
-      (reference "J?") (unit 1) (value "Conn_01x17") (footprint "")
     )
     (path "/3e6b0dbb-33b8-493d-a136-d7bd55d73615"
       (reference "PW1") (unit 1) (value "B100k") (footprint "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical")
