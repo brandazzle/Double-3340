@@ -1,4 +1,4 @@
-19823195562102517
+19828152212370276
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -58009,6 +58009,13 @@ mounting hole 6.4mm m6
 1
 1
 MountingHole
+MountingHole_6.4mm_M6_Pad_Narrow
+Mounting Hole 6.4mm, M6
+mounting hole 6.4mm m6
+0
+1
+1
+MountingHole
 MountingHole_6.4mm_M6_Pad_TopBottom
 Mounting Hole 6.4mm, M6
 mounting hole 6.4mm m6
@@ -58100,6 +58107,13 @@ mounting hole 6mm
 9
 1
 MountingHole
+MountingHole_7.4mm_M7_Pad_Narrow
+
+
+0
+1
+1
+MountingHole
 MountingHole_8.4mm_M8
 Mounting Hole 8.4mm, no annular, M8
 mounting hole 8.4mm no annular m8
@@ -58133,6 +58147,13 @@ Mounting Hole 8.4mm, M8
 mounting hole 8.4mm m8
 0
 9
+1
+MountingHole
+MountingHole_M6_AntiRotation
+Mounting Hole 2.5mm, no annular
+mounting hole 2.5mm no annular
+0
+1
 1
 Mounting_Wuerth
 Mounting_Wuerth_WA-SMSE-ExternalM3_H5mm_9771050360
