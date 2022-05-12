@@ -1,4 +1,4 @@
-19831476907387956
+19833129390477485
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -1926,6 +1926,13 @@ DIP Switch SPST Slide 7.62mm 300mil
 24
 Button_Switch_THT
 SW_DPDT_Toggle_Miniature_Lug
+
+
+0
+6
+6
+Button_Switch_THT
+SW_DPDT_Toggle_Subminiature
 
 
 0
