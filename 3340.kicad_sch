@@ -1849,7 +1849,6 @@
     )
   )
 
-
   (junction (at 191.77 29.21) (diameter 0) (color 0 0 0 0)
     (uuid 022136ab-5975-40c3-b600-8bebcd1b1a32)
   )
@@ -5417,7 +5416,7 @@
     (property "Value" "B100k" (id 1) (at 137.16 185.4199 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical" (id 2) (at 134.62 184.15 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles" (id 2) (at 134.62 184.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 134.62 184.15 0)
@@ -5557,7 +5556,7 @@
     (property "Value" "B100k" (id 1) (at 269.24 135.8899 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical" (id 2) (at 266.7 134.62 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles" (id 2) (at 266.7 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 266.7 134.62 0)
@@ -5700,7 +5699,7 @@
     (property "Value" "B100k" (id 1) (at 153.67 165.0999 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical" (id 2) (at 151.13 163.83 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles" (id 2) (at 151.13 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 151.13 163.83 0)
@@ -6390,7 +6389,7 @@
     (property "Value" "B100k" (id 1) (at 252.73 156.2099 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical" (id 2) (at 250.19 154.94 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles" (id 2) (at 250.19 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 250.19 154.94 0)
@@ -6651,7 +6650,7 @@
     (property "Value" "B20k" (id 1) (at 137.16 173.99 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical" (id 2) (at 134.62 172.72 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles" (id 2) (at 134.62 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 134.62 172.72 0)
@@ -6950,7 +6949,7 @@
     (property "Value" "B20k" (id 1) (at 252.73 133.3499 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical" (id 2) (at 250.19 132.08 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles" (id 2) (at 250.19 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 250.19 132.08 0)
@@ -8388,7 +8387,7 @@
     (property "Value" "B20k" (id 1) (at 252.73 144.78 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical" (id 2) (at 250.19 143.51 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles" (id 2) (at 250.19 143.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 250.19 143.51 0)
@@ -8583,7 +8582,7 @@
     (property "Value" "B20k" (id 1) (at 137.16 162.5599 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical" (id 2) (at 134.62 161.29 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles" (id 2) (at 134.62 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 134.62 161.29 0)
@@ -9368,10 +9367,10 @@
       (reference "C36") (unit 1) (value "0.1u") (footprint "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm")
     )
     (path "/e9cea4d7-c35e-498b-956b-e9112d74ca4d"
-      (reference "COARSE1") (unit 1) (value "B20k") (footprint "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical")
+      (reference "COARSE1") (unit 1) (value "B20k") (footprint "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles")
     )
     (path "/9277be02-0ca4-43e5-a1b7-432d125d1d18"
-      (reference "COARSE2") (unit 1) (value "B20k") (footprint "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical")
+      (reference "COARSE2") (unit 1) (value "B20k") (footprint "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles")
     )
     (path "/b2ccb769-0cb0-4378-9666-0b43931cfcd4"
       (reference "D1") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
@@ -9392,10 +9391,10 @@
       (reference "D6") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
     )
     (path "/80dece0f-79cb-4af2-b46d-a98bdd4ae117"
-      (reference "FINE1") (unit 1) (value "B20k") (footprint "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical")
+      (reference "FINE1") (unit 1) (value "B20k") (footprint "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles")
     )
     (path "/dd257896-399c-4505-afdc-34465a87c5b8"
-      (reference "FINE2") (unit 1) (value "B20k") (footprint "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical")
+      (reference "FINE2") (unit 1) (value "B20k") (footprint "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles")
     )
     (path "/d2def891-76d1-4589-af17-41697317b168"
       (reference "J1") (unit 1) (value "Conn_01x17") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x17_P2.54mm_Vertical")
@@ -9458,16 +9457,16 @@
       (reference "J20") (unit 1) (value "FM2") (footprint "Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles")
     )
     (path "/3e6b0dbb-33b8-493d-a136-d7bd55d73615"
-      (reference "PW1") (unit 1) (value "B100k") (footprint "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical")
+      (reference "PW1") (unit 1) (value "B100k") (footprint "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles")
     )
     (path "/75911324-a685-49e9-9390-e212534f5029"
-      (reference "PW2") (unit 1) (value "B100k") (footprint "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical")
+      (reference "PW2") (unit 1) (value "B100k") (footprint "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles")
     )
     (path "/48f1df72-21f5-44e6-8e10-0c601f8cf333"
-      (reference "PWM1") (unit 1) (value "B100k") (footprint "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical")
+      (reference "PWM1") (unit 1) (value "B100k") (footprint "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles")
     )
     (path "/4598e6e2-f73c-4cf5-ac6e-9af0bf61ba76"
-      (reference "PWM2") (unit 1) (value "B100k") (footprint "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical")
+      (reference "PWM2") (unit 1) (value "B100k") (footprint "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical_CircularHoles")
     )
     (path "/e27c3ebf-ece4-4dd3-a647-c521203a951a"
       (reference "PWR1") (unit 1) (value "PWR") (footprint "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical")
