@@ -4,8 +4,7 @@ The 1V/octave inputs are connected to each other via switching jacks, so you can
 \[This functionality can be customized by soldering only one of the 1V/oct input jacks' switch pins, or removed by soldering neither.\]
 All outputs are re-centered and normalized to ±5V. A waveshaping circuit based on [Thomas Henry's VCO-1](https://www.birthofasynth.com/Thomas_Henry/Pages/VCO-1.html) provides a sine output. 
 The switchable hard sync uses the hard-sync diode circuit from [the original Curtis Electromusic datasheet.](https://www.curtiselectromusic.com/family-law.html)
-The module also implements the chip-to-chip soft synchronization described in the original datasheet, wth a front-panel switch to select which oscillator synchronizes the other.
-(I will decide after building rev1.0 if the mutually-synchronized sound is interesting enough to make permanent as the center setting. If not, I will leave the option to include it by changing the type of the DPDT switch. (I should check if that's possible.))
+The module also implements the chip-to-chip soft synchronization described in the original datasheet, wth front-panel switches for each oscillator. Turning on the switch corresponding to each oscillator causes that oscillator to be synchronized by the other, so you can select sync either way, no sync, or mutual sync.
 
 ## Construction
 <details><summary>View build instructions</summary>
