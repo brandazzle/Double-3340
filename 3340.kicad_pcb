@@ -12924,4 +12924,17 @@
       )
     )
   )
+  (zone (net 1) (net_name "GND") (layers F&B.Cu) (tstamp df06f335-ce69-4499-92aa-42c827c48e5f) (hatch edge 0.508)
+    (connect_pads yes (clearance 0.508))
+    (min_thickness 0.0254) (filled_areas_thickness no)
+    (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 233.9 141.2)
+        (xy 182.9 141.2)
+        (xy 182.9 12.7)
+        (xy 233.9 12.7)
+      )
+    )
+  )
 )
